@@ -1,13 +1,13 @@
-# G6-Firmware
-## Installation
+# Waterloop Firmware Repositories
 
-```bash
-git clone https://github.com/waterloop/G6-Firmware
-cd G6-Firmware
-git submodule update --init --recursive
-```
+This repository is a compilation of every active firmware project on the team.
+
+## Boards
+| Board   | Description     | Repository                             |
+| ------  | -----------     | -------------------------------------  |
+| Raspberry Pi | - | https://github.com/waterloop/G6-Raspberry-Pi |
+| STM32 | - | https://github.com/waterloop/G6-STM32|
 
 
 ## Backend:
-
 Backend can be found at https://github.com/waterloop/firmware-elesa/tree/main/Backend
