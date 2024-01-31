@@ -7,6 +7,7 @@ This repository is a compilation of every active firmware project on the team.
 | ------  | -----------     | -------------------------------------  |
 | Raspberry Pi | - | https://github.com/waterloop/G6-Raspberry-Pi |
 | STM32 | - | https://github.com/waterloop/G6-STM32|
+| ESP32 | - | https://github.com/waterloop/G6-ESP32|
 
 
 ## Backend:
